@@ -34,19 +34,19 @@ Each task in the notebook corresponds to a major analysis step:
 
 ### ✅ Task 1: Data Loading & Visualization
 - Loaded handedness data and created basic scatter plots of male/female left-handedness vs. age.
-- 📍 *Graph Placeholder*: `scatter_male_female_age.png`
+
 
 ### ✅ Task 2: Birth Year Mapping and Mean Handedness
 - Calculated birth year (`1986 - age`) and average left-handedness.
 - Visualized the trend of mean left-handedness across birth years.
-- 📍 *Graph Placeholder*: `mean_lh_vs_birth_year.png`
+
 
 ### ✅ Task 3: Estimating Conditional Probability P(LH|A)
 - Defined probabilities of being left-handed given age using data from early and late 1900s.
 
 ### ✅ Task 4: US Death Distribution Plot
 - Loaded US death data and plotted number of deaths per age.
-- 📍 *Graph Placeholder*: `death_distribution.png`
+
 
 ### ✅ Task 5: P(LH) — Overall Probability of Left-Handedness
 - Combined death and handedness data to estimate the overall population-level probability of being left-handed.
@@ -58,8 +58,7 @@ Each task in the notebook corresponds to a major analysis step:
 
 ### ✅ Task 8: Visualization of Probabilities by Age
 - Plotted P(A|LH) and P(A|RH) side by side for visual comparison.
-- 📍 *Graph Placeholder*: `probability_plots_lh_rh.png`
-
+  
 ### ✅ Task 9: Mean Lifespan Comparison
 - Calculated and compared average lifespan of left-handers vs right-handers.
 - 📌 Finding: Left-handed people had an estimated **X-year** shorter lifespan (based on modeled data).
