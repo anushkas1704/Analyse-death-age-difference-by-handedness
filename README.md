@@ -2,7 +2,7 @@
 
 This project explores the correlation between **handedness** (left-handed vs. right-handed) and **lifespan trends** using real-world data from National Geographic and US Death Distribution statistics. The analysis is carried out using **Python**, leveraging libraries like **Pandas**, **NumPy**, and **Matplotlib**.
 
-> 📍 Completed during the **Data Science Traineeship at MedTourEasy**, along with training in Python, R, SQL, and Tableau.
+> 📍 Completed during the **Data Analytics Traineeship at MedTourEasy**, along with training in Python, R, SQL, and Tableau.
 
 ---
 
